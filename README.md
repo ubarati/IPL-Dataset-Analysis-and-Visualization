@@ -38,7 +38,7 @@ Visuals created using `matplotlib`.
 - **Python**: `pandas`, `matplotlib`
 - **Excel**: For initial data exploration
 - **SQL**: For simple aggregation queries
-- **Jupyter Notebook**: For code + output visualization
+- **Visual Studio Code**: For code + output visualization
 
 ---
 
